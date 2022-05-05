@@ -9,18 +9,19 @@ VL-InterpreT provides interactive visualizations for interpreting the attentions
 - Plots the hidden representations of vision and language tokens as they pass through the transformer layers.
 
 # Paper
-Our demo was accepted to CVPR 2022: [VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers
-](https://arxiv.org/abs/2203.17247)
+Our demo was accepted to CVPR 2022: <a href="https://arxiv.org/abs/2203.17247" target="_blank">VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers</a>
 
 # Screencast Video
 This video provides an overview of VL-Interpret and demonstrates a few interesting examples.
 
 <p align="center">
-  <a href="https://youtu.be/4Rj15Hi_Pdo"><img src="assets/screencast.png" alt="Video Demo" width="560"/></a>
+  <a href="https://youtu.be/4Rj15Hi_Pdo" target="_blank"><img src="assets/screencast.png" alt="Video Demo" width="560"/></a>
 </p>
 
 # Live Demo
-A live demo of the app (same as in the screencast video) is available at http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com. Please watch [the screencast video](https://youtu.be/4Rj15Hi_Pdo) to get a sense of how to navigate the app. This demo contains 100 examples from the [Visual Commonsense Reasoning task](https://visualcommonsense.com/) and shows the attention and hidden representations from the [KD-VLP model](https://arxiv.org/abs/2109.10504).
+A live demo of the app (same as in the screencast video) is available <a href="http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com" target="_blank">here</a>.
+
+Please watch <a href="https://youtu.be/4Rj15Hi_Pdo" target="_blank">the screencast video</a> to get a sense of how to navigate the app. This demo contains 100 examples from the <a href="https://visualcommonsense.com/" target="_blank">Visual Commonsense Reasoning task</a> and shows the attention and hidden representations from the <a href="https://arxiv.org/abs/2109.10504" target="_blank">KD-VLP model</a>.
 
 <!-- ## Run VL-Interpret with Your Own Data -->
  
