@@ -19,7 +19,7 @@ This video provides an overview of VL-Interpret and demonstrates a few interesti
 </p>
 
 # Live Demo
-A live demo of the app (same as in the screencast video) is available <a href="http://vlinterpretenv4env-env.eba-vmhhefup.us-east-2.elasticbeanstalk.com" target="_blank">here</a>.
+A live demo of the app (same as in the screencast video) is available <a href="http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/" target="_blank">here</a>.
 
 Please watch <a href="https://youtu.be/4Rj15Hi_Pdo" target="_blank">the screencast video</a> to get a sense of how to navigate the app. This demo contains 100 examples from the <a href="https://visualcommonsense.com/" target="_blank">Visual Commonsense Reasoning task</a> and shows the attention and hidden representations from the <a href="https://arxiv.org/abs/2109.10504" target="_blank">KD-VLP model</a>.
 
