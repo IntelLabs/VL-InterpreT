@@ -23,5 +23,5 @@ A live demo of the app (same as in the screencast video) is available <a href="h
 
 Please watch <a href="https://youtu.be/4Rj15Hi_Pdo" target="_blank">the screencast video</a> to get a sense of how to navigate the app. This demo contains 100 examples from the <a href="https://visualcommonsense.com/" target="_blank">Visual Commonsense Reasoning task</a> and shows the attention and hidden representations from the <a href="https://arxiv.org/abs/2109.10504" target="_blank">KD-VLP model</a>.
 
-<!-- ## Run VL-Interpret with Your Own Data -->
- 
+# Setup and Usage
+Code will be available soon!
