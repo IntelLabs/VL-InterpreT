@@ -9,7 +9,7 @@ VL-InterpreT provides interactive visualizations for interpreting the attentions
 - Plots the hidden representations of vision and language tokens as they pass through the transformer layers.
 
 # Paper
-Our demo was accepted to CVPR 2022: <a href="https://arxiv.org/abs/2203.17247" target="_blank">VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers</a>
+Our paper won the Best Demo Award at CVPR 2022: <a href="https://arxiv.org/abs/2203.17247" target="_blank">VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers</a>
 
 # Screencast Video
 This video provides an overview of VL-Interpret and demonstrates a few interesting examples.
